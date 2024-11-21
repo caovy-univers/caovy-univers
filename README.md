@@ -1,6 +1,6 @@
 # Hi there ✨
 
-My name is __caovy__ and I identify as a non-binary human. My pronounces are __they/them__ ☺️
+My name is __caovy__ and I identify as non-binary. My pronounces are __they/them__ ☺️
 
 I'm currently a __PhD researcher__ in __Digital Humanities applied to History and Asian studies__.
 
