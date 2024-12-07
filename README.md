@@ -1,8 +1,8 @@
-# Hi there ✨
+# Hello world
 
-My name is __caovy__ and I identify as non-binary. My pronounces are __they/them__.
+My name is __caovy__ and I identify as non-binary.
 
-I'm currently a __PhD researcher__ in Digital Humanities applied to History and Asian studies.
+I recently enrolled the __Data Analytics__ bootcamp at __CodeOp__ - an international tech school for women, trans and nonbinary people.
 
-I'm also enrolled in a bootcamp in __Data Analytics__ with __CodeOp__ - an international tech school for women, trans and nonbinary people! 💜💙💚💛🧡💖
+I am also currently a __researcher__ in Digital Humanities applied to History and Asian studies.
 
