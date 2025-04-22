@@ -1,4 +1,4 @@
-# Historian · Digital Humanist · Data Scientist in Training
+# Historian · Digital Humanist · Data Scientist in training
 I am trained in both historical inquiry and computational methods, specializing in the history of books, printing, and publishing in colonial contexts, particularly in French Cochinchina (1890–1945). My work engages with the material and epistemological dimensions of knowledge production, with a strong focus on multilingual corpora.
 
 Currently, I design and develop digital methods to interrogate colonial archives and enhance the accessibility of extra-European collections. I am also exploring the use of machine learning and data science to support semantic enrichment, OCR correction, and data extraction from complex textual corpora.
