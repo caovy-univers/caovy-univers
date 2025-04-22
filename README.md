@@ -1,8 +1,14 @@
-# Hello world
+# Historian · Digital Humanist · Data Scientist in Training
+I am trained in both historical inquiry and computational methods, specializing in the history of books, printing, and publishing in colonial contexts, particularly in French Cochinchina (1890–1945). My work engages with the material and epistemological dimensions of knowledge production, with a strong focus on multilingual corpora.
 
-My name is __caovy__ and I identify as non-binary.
+Currently, I design and develop digital methods to interrogate colonial archives and enhance the accessibility of extra-European collections. I am also exploring the use of machine learning and data science to support semantic enrichment, OCR correction, and data extraction from complex textual corpora.
 
-I recently enrolled the __Data Science__ bootcamp at __CodeOp__ - an international tech school for women, trans and nonbinary people.
+### Research Focus
+- Book history, publishing networks, and textual circulation in colonial Vietnam
+- Metadata cleaning and remediation for non-European collections
+- Semantic analysis, multilingual NLP, and knowledge graph modeling
 
-I am also currently a __researcher__ in Digital Humanities applied to History and Asian studies.
+### Current Projects
+- InVisto (2022–2025): Relational database on books and printing in colonial Vietnam
+- Rag’it! (2025): Semantic annotation and knowledge graph construction from OCR-processed corpora
 
